@@ -342,7 +342,3 @@ except Exception as e:
 
 print("Process finished at: {}".format(today_datetime()))
 
-
-#%% TO DO 
-
-# > SAVE ANONNYMISED VERSION ON GIT (AND VOA RATES GIT)
